@@ -1,5 +1,7 @@
  # Budgeting and Forecasting Excel Model
 
+ ![alt text](https://raw.githubusercontent.com/imvishal09/excel-budgeting-and-forecasting/refs/heads/main/Excel%20screenshot.png)
+
 This Excel project is a sample budgeting and forecasting sheet that designed to help track and predict monthly expenses and revenues across multiple departments.
 
 ## Features
