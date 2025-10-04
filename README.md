@@ -1,60 +1,18 @@
-# Customer Sales and Insights Dashboard
 
-![Customer Insights Dashboard](https://raw.githubusercontent.com/imvishal09/PowerBI_Customer_Sales_and_Insights/refs/heads/main/customer%20insights.png)
+ # Budgeting and Forecasting Excel Model
 
-This Power BI project visualises customer purchasing behaviour, marketing campaign performance, and overall sales trends. It helps identify key customer segments and provides actionable insights to support data-driven decision-making.
+ ![alt text](https://raw.githubusercontent.com/imvishal09/excel-budgeting-and-forecasting/refs/heads/main/Excel%20screenshot.png)
 
----
+This Excel project is a sample budgeting and forecasting sheet that designed to help track and predict monthly expenses and revenues across multiple departments.
 
-### 📊 Key Features
+## Features
 
-- **Customer Segmentation:** Analyses customers based on purchasing patterns, recency, frequency, and monetary value (RFM model).  
-- **Campaign Performance:** Evaluates the success of marketing campaigns across different channels and time periods.  
-- **Sales Overview:** Tracks revenue, number of deals, and product performance across customer demographics.  
-- **Recency vs Spend Analysis:** Scatter plots that help visualise customer loyalty and spending patterns.  
-- **Interactive Filters:** Allows dynamic exploration by education level, marital status, and income group.  
+- **Actuals and Forecasts:** Includes historical actual data and forecasted figures for departments such as Marketing, Engineering, Support and HR over a two-year period.
+- **Income Statement Forecast:** Detailed projections of revenue, cost of goods sold (COGS), gross profit, operating expenses, taxes and net income.
+- **Business Assumptions:** Incorporates key assumptions such as customer acquisition cost, pricing, and unit sales to drive revenue forecasts.
+- **Scenario Analysis:** Supports analysis of different operating expense scenarios to assess financial impact.
+- **Financial Planning Support:** Enables monitoring of departmental spending trends and evaluation of overall business profitability.
 
----
+## Purpose
 
-### 🎯 Purpose
-
-This dashboard aims to support marketing and business strategy teams by providing insights into:  
-- Which customer groups are the most valuable.  
-- How campaign performance drives sales outcomes.  
-- Where to allocate future marketing budgets effectively.  
-
----
-
-### 🧠 Data Model Overview
-
-- **Transformations:** Performed in Power Query (data cleaning, feature creation, and unpivoting).  
-- **Measures:** Created in DAX for total revenue, average recency, campaign acceptance rate, and customer segmentation.  
-
----
-
-### 📂 Data Source
-
-- **Dataset:** [Customer Personality Analysis – Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)  
-- **Description:** Contains customer demographic data, purchasing behaviour, product category spending, marketing campaign responses, and channel usage.  
-- **Usage:** Used to model customer value (RFM), segment customers, and analyse campaign effectiveness.  
-
----
-
-### 🪄 Tools and Techniques
-
-- **Power BI Desktop** for visualisation and modelling.  
-- **DAX (Data Analysis Expressions)** for calculated measures.  
-- **Power Query** for data cleaning and transformation.  
-- **Excel** for preliminary analysis and verification.  
-
----
-
-### 💡 Insights Highlight
-
-- Customers with **high recency and high spending** are prime targets for loyalty programs.  
-- Campaign acceptance is highest among **mid-income, married customers**.  
-- Certain product categories drive the majority of sales despite fewer transactions — indicating potential for upselling.
-
----
-
-### 📁 Project Structure
+This model is designed to support financial planning and decision-making by providing clear insights into company and future outlook.
